@@ -16,7 +16,7 @@
     width: 100px;
 }
 .logo{
-    background-image: url("amezon pic/amezon logo1.jfif");
+    background-image: url(".amezon pic/amezon logo1.jfif");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -131,7 +131,7 @@ span{
 /* hero-secetion */
 
 .hero-secetion{
-    background-image: url("amezon pic/61H3B5rmlyL._hero_.jpg");
+    background-image: url(".amezon pic/61H3B5rmlyL._hero_.jpg");
     height: 400px;
     background-size: cover;
     display: flex;
@@ -224,7 +224,7 @@ ul a {
     align-items: center;
 }
 .logo{
-    background-image: url("amezon pic/amezon logo1.jfif");
+    background-image: url(".amezon pic/amezon logo1.jfif");
     height: 50px;
     width: 100px
 }
